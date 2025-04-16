@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jukereise
 - 👀 I’m interested in cs and website making
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning nasm
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me by gmail,my gmail is leonvorelllewin@gmail.com
 - 😄 Pronouns: he/him
